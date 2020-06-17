@@ -1,0 +1,46 @@
+
+body {
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #dbdbdb;
+}
+h1 {
+    color: rgb(85, 84, 88);
+}
+
+form {
+    display: flex;
+    border-radius: 10px  rgb(85, 84, 88);
+    font-family: 'Roboto', sans-serif;
+    flex-direction: column;
+    font-size: 24px;
+    
+    
+}
+form input {
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px  rgb(85, 84, 88);
+    
+   
+}
+form button {
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(167, 235, 154);
+    border: none;
+    border-radius: 10px;
+    font-size: 22px;
+    color: rgb(85, 84, 88);
+}
+.result {
+    padding: 10px;
+    border: 1px solid #d8d8d8;
+    background-attachment: #fdfdfd;
+}
