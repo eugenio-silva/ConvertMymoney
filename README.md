@@ -5,3 +5,5 @@
             -Node 
             -Express 
             -Ejs
+            -Axios           
+            -Jest
